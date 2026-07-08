@@ -1,4 +1,4 @@
-# Alex Măncăuță
+# Alexandru Mario Ancuta
 **Computer Science Student | University of Bucharest (2028)
 
 Welcome to my GitHub profile! I am a Mathematics and Computer Science student at the University of Bucharest, passionate about software engineering and database administration. I am currently building a strong foundation in algorithmic problem-solving and backend technologies through academic study and hands-on projects.
