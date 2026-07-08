@@ -1,16 +1,23 @@
 # Alexandru Mario Ancuta
-**Computer Science Student | University of Bucharest (2028)
+**Computer Science Student | University of Bucharest ('28)**
 
-Welcome to my GitHub profile! I am a Mathematics and Computer Science student at the University of Bucharest, passionate about software engineering and database administration. I am currently building a strong foundation in algorithmic problem-solving and backend technologies through academic study and hands-on projects.
+Welcome to my GitHub profile! I am a Mathematics and Computer Science student at the University of Bucharest, passionate about software engineering and database administration. I am focused on building scalable backend structures and optimizing data management through hands-on projects.
 
 ## 🛠 Technical Skills
-* **Programming Languages:** C, C++
-* **Databases:** SQL, MySQL, Oracle SQL
-* **Core Competencies:** Data Structures, Algorithms, Relational Database Design
+* **Languages:** C, C++
+* **Databases:** MySQL, Oracle SQL, Relational Database Design
+* **Concepts:** Data Structures, Object-Oriented Programming (OOP), Algorithmic Logic
 
-## 🚀 Featured Projects
-* **Store & Library Management Systems:** Database-driven solutions for managing inventories and library records, built with SQL and MySQL.
-* **Solar System Database:** An Oracle SQL project designed to structure and query complex data about the solar system.
-* **Classic Game Implementations:** Command-line versions of Blackjack and Tic-Tac-Toe (X-și-0) developed in C/C++, focusing on logic, control flow, and memory management.
-* **Algorithmic Implementations:** Core algorithms in C, including binary search (`cautareBinara.c`).
+## 🚀 Highlighted Projects
+
+### Database Architecture & Management
+* **Library & Store Management Systems (MySQL / SQL):** 
+  Designed and implemented relational database schemas for tracking inventories, managing user records, and handling transactional data for library and retail environments. Focused on data integrity and efficient querying.
+* **Solar System Database (Oracle SQL):** 
+  A structured Oracle SQL database modeling complex relationships and datasets related to the solar system, demonstrating proficiency in enterprise-level database management systems.
+
+### Software Development
+* **Blackjack Simulator (C++):** 
+  A command-line implementation of the classic Blackjack game. This project highlights memory management, control flow, handling edge cases, and applying object-oriented/procedural programming principles in C++.
+
 
