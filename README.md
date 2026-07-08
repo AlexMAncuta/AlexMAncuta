@@ -1,16 +1,16 @@
-## Hi there 👋
+# Alex Măncăuță
+**Computer Science Student | University of Bucharest (2028)
 
-<!--
-**AlexMAncuta/AlexMAncuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a Mathematics and Computer Science student at the University of Bucharest, passionate about software engineering and database administration. I am currently building a strong foundation in algorithmic problem-solving and backend technologies through academic study and hands-on projects.
 
-Here are some ideas to get you started:
+## 🛠 Technical Skills
+* **Programming Languages:** C, C++
+* **Databases:** SQL, MySQL, Oracle SQL
+* **Core Competencies:** Data Structures, Algorithms, Relational Database Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+* **Store & Library Management Systems:** Database-driven solutions for managing inventories and library records, built with SQL and MySQL.
+* **Solar System Database:** An Oracle SQL project designed to structure and query complex data about the solar system.
+* **Classic Game Implementations:** Command-line versions of Blackjack and Tic-Tac-Toe (X-și-0) developed in C/C++, focusing on logic, control flow, and memory management.
+* **Algorithmic Implementations:** Core algorithms in C, including binary search (`cautareBinara.c`).
+
